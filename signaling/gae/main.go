@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nobonobo/ssh-p2p/signaling"
+	"github.com/arsa-dev/ssh-p2p/signaling"
 )
 
 var (

@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/nobonobo/ssh-p2p/signaling"
+	"github.com/arsa-dev/ssh-p2p/signaling"
 	"github.com/pions/webrtc"
 	"github.com/pions/webrtc/pkg/datachannel"
 	"github.com/pions/webrtc/pkg/ice"

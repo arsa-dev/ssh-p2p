@@ -10,16 +10,16 @@ ssh p2p tunneling server and client
 # backend protocol
 
 - RTCDataChannel/WebRTC: https://github.com/pions/webrtc
-- signaling server: https://nobo-signaling.appspot.com/
+- signaling server: https://signaling.arsahosting.com/
 
-  src: [signaling/gae](https://github.com/nobonobo/ssh-p2p/signaling/gae)
+  src: [signaling/gae](https://github.com/arsa-dev/ssh-p2p/signaling/gae)
 
 thx! https://github.com/pions/webrtc
 
 # install
 
 ```sh
-$ go get -u github.com/nobonobo/ssh-p2p
+$ go get -u github.com/arsa-dev/ssh-p2p
 ```
 
 # usage

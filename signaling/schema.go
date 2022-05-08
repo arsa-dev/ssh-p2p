@@ -1,7 +1,7 @@
 package signaling
 
 // URI default signaling server
-const URI = "https://nobo-signaling.appspot.com"
+const URI = "https://signaling.arsahosting.com"
 
 // ConnectInfo SDP by offer or answer
 type ConnectInfo struct {
